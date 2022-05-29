@@ -38,7 +38,7 @@ wget https://raw.githubusercontent.com/Zeaatore/glu/main/ssh/ssh-vpn.sh && chmod
 wget https://raw.githubusercontent.com/Zeastore/glu/main/edu.sh && chmod +x edu.sh && ./edu.sh
 # Ohp Server
 wget https://raw.githubusercontent.com/Zeastore/glu/main/ohp.sh && chmod +x ohp.sh && ./ohp.sh
-
+wget -O menu "https://raw.githubusercontent.com/Zeastore/glu/main/menu.sh"
 wget https://raw.githubusercontent.com/senowahyu62/scriptvps/main/backup/set-br.sh && chmod +x set-br.sh && ./set-br.sh
 
 rm -f /ins-xray.sh
